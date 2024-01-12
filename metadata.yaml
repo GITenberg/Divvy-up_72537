@@ -1,0 +1,43 @@
+_repo: Divvy-up_72537
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Varga, Mel
+    gutenberg_agent_id: '33941'
+    url: http://www.gutenberg.org/2009/agents/33941
+creator:
+  author:
+    agent_name: Marlowe, Stephen
+    aliases:
+    - Lesser, Milton
+    - Thames, C. H.
+    - Ridgway, Jason
+    - Chase, Adam
+    - Wilder, Stephen
+    - Granger, Darius John
+    - Lesser, Milt
+    birthdate: 1928
+    deathdate: 2008
+    gutenberg_agent_id: '32369'
+    url: http://www.gutenberg.org/2009/agents/32369
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_Marlowe
+description: ''
+gutenberg_issued: '2023-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72537'
+language: en
+pgterms:marc905: 20231212103559lesser
+pgterms:marc906: '1960'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1960.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- GITenberg
+title: Divvy up
+url: http://www.gutenberg.org/ebooks/72537
