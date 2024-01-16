@@ -5,6 +5,9 @@ contributor:
     agent_name: Varga, Mel
     gutenberg_agent_id: '33941'
     url: http://www.gutenberg.org/2009/agents/33941
+covers:
+- cover_type: archival
+  image_path: 72537-h/images/cover.jpg
 creator:
   author:
     agent_name: Marlowe, Stephen
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32369
     wikipedia: https://en.wikipedia.org/wiki/Stephen_Marlowe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72537#Divvy-up
 gutenberg_issued: '2023-12-29'
 gutenberg_type: Text
 identifiers:
